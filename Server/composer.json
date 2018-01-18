@@ -1,5 +1,5 @@
 {
-    "name": "amaceda/ejemplowebsockets1",
+    "name": "amaceda/ejemplowebsockets",
     "authors": [
         {
             "name": "Alvaro Maceda",
@@ -8,5 +8,10 @@
     ],
     "require": {
         "cboden/ratchet": "^0.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "EjemploWebSockets\\": "./"
+        }
     }
 }
