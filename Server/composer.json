@@ -1,0 +1,12 @@
+{
+    "name": "amaceda/ejemplowebsockets1",
+    "authors": [
+        {
+            "name": "Alvaro Maceda",
+            "email": "alvaro@alvaromaceda.es"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
